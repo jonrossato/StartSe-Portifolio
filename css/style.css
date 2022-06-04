@@ -583,7 +583,7 @@ footer {
 }
 #back-to-top {
   bottom: 220px;
-  right: 55px;
+  right: 5px;
 }
 @media screen and (max-width: 1000px) {
   .card {
