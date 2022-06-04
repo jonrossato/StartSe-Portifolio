@@ -398,8 +398,8 @@ fieldset {
   box-shadow: 2px 3px 19px -2px rgba(0, 0, 0, 0.75);
   color: #fff;
   cursor: pointer;
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
   right: 5px;
 }
 
@@ -583,6 +583,8 @@ footer {
   }
 }
 #back-to-top {
+  height: 15px;
+  width: 15px;
   bottom: 220px;
   right: 5px;
 }
