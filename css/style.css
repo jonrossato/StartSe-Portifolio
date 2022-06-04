@@ -400,6 +400,7 @@ fieldset {
   cursor: pointer;
   height: 40px;
   width: 40px;
+  right: 5px;
 }
 
 /* ===== Fim da estilização do botão Voltar ao Topo ===== */
